@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9712e60-3ae8-4a63-83e0-0fb4b0e6e50e" name="Changes" comment="8">
+      <change afterPath="$PROJECT_DIR$/../ArtsMia/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArtsMia/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArtsMia/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArtsMia/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArtsMia/model/artObject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArtsMia/model/connessioni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArtsMia/tstDao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlightDelays/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlightDelays/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlightDelays/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlightDelays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlightDelays/model/connessione.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlightDelays/tstModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Lab07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baseball/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baseball/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baseball/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baseball/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baseball/model/team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTunes/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTunes/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTunes/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTunes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTunes/model/album.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArtsMia/UI/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtsMia/UI/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArtsMia/UI/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtsMia/UI/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArtsMia/database/DAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtsMia/database/DAO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArtsMia/database/artsmia.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArtsMia/database/connector.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtsMia/database/connector.cnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArtsMia/model/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtsMia/model/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlightDelays/UI/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FlightDelays/UI/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlightDelays/UI/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FlightDelays/UI/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlightDelays/database/DAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FlightDelays/database/DAO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlightDelays/database/connector.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/../FlightDelays/database/connector.cnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlightDelays/model/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FlightDelays/model/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/UI/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/connector.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/database/connector.cnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/meteo_dao.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/meteo_dao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baseball/UI/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/../baseball/UI/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baseball/UI/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/../baseball/UI/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baseball/database/DAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/../baseball/database/DAO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baseball/database/connector.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/../baseball/database/connector.cnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baseball/model/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../baseball/model/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTunes/UI/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/../iTunes/UI/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTunes/UI/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/../iTunes/UI/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTunes/database/DAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/../iTunes/database/DAO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTunes/database/connector.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/../iTunes/database/connector.cnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTunes/model/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../iTunes/model/model.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../iTunes" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;thestbobo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/thestbobo/Lab07.git&quot;,
+    &quot;accountId&quot;: &quot;9b29b4f6-2931-4655-9f93-43d9ae2c6f84&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2g8RbUmfbGACwNBy3QTOoyJK22W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.networkX_lecture.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tstDao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tstModel.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../ArtsMia/model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iTunes" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../iTunes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../iTunes/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ArtsMia" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ArtsMia" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ArtsMia/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlightDelays" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../FlightDelays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../FlightDelays/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="baseball" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../baseball" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../baseball/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tstModel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlightDelays" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../FlightDelays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../FlightDelays/tstModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.tstModel" />
+        <item itemvalue="Python.main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9712e60-3ae8-4a63-83e0-0fb4b0e6e50e" name="Changes" comment="" />
+      <created>1715077289798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715077289798</updated>
+    </task>
+    <servers />
+  </component>
+</project>
